@@ -1,0 +1,21 @@
+1. used the country code with flag   and  got flags from  ==> https://flagsapi.com/
+
+2. converter symbol
+   
+     webisie==> https://cdnjs.com/libraries/font-awesome
+      and included this gor icons in file
+     link==> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+     now then, for symol 
+
+     website==> https://fontawesome.com/
+
+     code==? <i class="fa-solid fa-right-left"></i>
+
+
+3.api correcny from 
+     github ==>https://github.com/fawazahmed0/currency-api
+
+
+     Get the currency value for EUR to JPY:
+   https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur/jpy.json
